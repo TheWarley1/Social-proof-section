@@ -37,8 +37,8 @@ body{
 .upper{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 100px;
-
+/*     margin-bottom: 100px;
+ */
 }
 
 .main-text{
